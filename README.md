@@ -1,6 +1,6 @@
 # 🚀 Mi Aprendizaje en JavaScript
 
-Este repositorio contiene mi progreso diario aprendiendo JavaScript desde cero.
+Este repositorio contiene mi progreso diario aprendiendo JavaScript desde cero. Cada día incluye ejercicios prácticos y un proyecto para consolidar los conceptos.
 
 ## 📅 Días de estudio
 
@@ -18,23 +18,16 @@ Este repositorio contiene mi progreso diario aprendiendo JavaScript desde cero.
 - `ejercicio3.js` – Validador de acceso con lógica
 - `proyecto-imc.js` – Calculadora de IMC
 
-### 📁 Día 3 – Condicionales
-
-- `if-else-ejercicios.js` – Ejercicios de `if/else`
-- `switch-ejercicios.js` – `switch` con valores fijos
-- `switch-condiciones.js` – `switch (true)` con condiciones
-- `proyecto-clasificador.js` – Clasificador de edades
-
 ### 📁 Ejercicios Extra
 
 - `biblioteca.js` – Sistema de registro de libros
 - `concesionario.js` – Sistema de registro de coches
-- `conversion-temperatura.js` – Conversor Celsius → Fahrenheit
-- `descuento-tienda.js` – Cálculo de descuentos
+- `conversion-temperatura.js` – Conversor Celsius → Fahrenheit y Kelvin
+- `descuento-tienda.js` – Cálculo de descuentos con condiciones
 
 ## 🛠️ Cómo ejecutar
 
-Cada archivo `.js` se ejecuta con Node.js:
+Cada archivo `.js` se ejecuta con Node.js. Ejemplo:
 
 ```bash
 node dia-1-variables/ejercicio1.js
