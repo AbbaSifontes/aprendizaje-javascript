@@ -18,6 +18,13 @@ Este repositorio contiene mi progreso diario aprendiendo JavaScript desde cero. 
 - `ejercicio3.js` – Validador de acceso con lógica
 - `proyecto-imc.js` – Calculadora de IMC
 
+### 📁 Día 3 – Condicionales
+
+- `if-else-ejercicios.js` – Clasificador de temperatura con `if/else`
+- `switch-ejercicios.js` – Menú de opciones con `switch`
+- `switch-condiciones.js` – Clasificador de notas con `switch (true)`
+- `proyecto-clasificador.js` – Clasificador de edades
+
 ### 📁 Ejercicios Extra
 
 - `biblioteca.js` – Sistema de registro de libros
