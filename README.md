@@ -25,6 +25,15 @@ Este repositorio contiene mi progreso diario aprendiendo JavaScript desde cero. 
 - `switch-condiciones.js` – Clasificador de notas con `switch (true)`
 - `proyecto-clasificador.js` – Clasificador de edades
 
+### 📁 Día 4 – Bucles
+
+- `for-basico.js` – Números del 1 al 10 con `for`
+- `while-basico.js` – Cuenta regresiva con `while`
+- `do-while-basico.js` – Simulador de intentos con `do...while`
+- `recorrer-arrays.js` – Recorrer un array con `for`
+- `proyecto-tabla.js` – Generador de tablas de multiplicar
+- `proyecto-pares.js` – Contador de números pares entre 1 y 20
+
 ### 📁 Ejercicios Extra
 
 - `biblioteca.js` – Sistema de registro de libros
