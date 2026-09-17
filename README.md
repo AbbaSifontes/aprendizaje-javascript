@@ -34,6 +34,18 @@ Este repositorio contiene mi progreso diario aprendiendo JavaScript desde cero. 
 - `proyecto-tabla.js` – Generador de tablas de multiplicar
 - `proyecto-pares.js` – Contador de números pares entre 1 y 20
 
+### 📁 Día 5 – Proyecto Semanal: Conversor de Monedas
+
+- `ejercicio1.js` – Conversión simple de dólares a bolívares
+- `ejercicio2.js` – Conversión con mensaje condicional
+- `ejercicio3.js` – Historial de conversiones con bucle
+- `proyecto-conversor.js` – Conversor completo con promedio e iteraciones
+- `ejercicio-suma-promedio.js` – Suma y promedio de un array de números
+- `ejercicio-precios.js` – Total, cantidad y promedio de precios
+- `ejercicio-ventas.js` – Reporte de ventas con máximo, mínimo y promedio
+- `ejercicio-maximo.js` – Encontrar el número más grande de un array
+- `ejercicio-aprobados.js` – Reporte de aprobados, reprobados y promedio del curso
+
 ### 📁 Ejercicios Extra
 
 - `biblioteca.js` – Sistema de registro de libros
