@@ -45,6 +45,7 @@ Este repositorio contiene mi progreso diario aprendiendo JavaScript desde cero. 
 - `ejercicio-ventas.js` – Reporte de ventas con máximo, mínimo y promedio
 - `ejercicio-maximo.js` – Encontrar el número más grande de un array
 - `ejercicio-aprobados.js` – Reporte de aprobados, reprobados y promedio del curso
+- `practica-repaso.js` – Proyecto integrador de repaso (análisis de pesos)
 
 ### 📁 Ejercicios Extra
 
