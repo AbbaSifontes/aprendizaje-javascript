@@ -54,6 +54,11 @@ Este repositorio contiene mi progreso diario aprendiendo JavaScript desde cero. 
 - `conversion-temperatura.js` – Conversor Celsius → Fahrenheit y Kelvin
 - `descuento-tienda.js` – Cálculo de descuentos con condiciones
 
+### 📁 Proyectos Extra Semanales
+
+- `proyecto-calificaciones.js` – Sistema de calificaciones con clasificación
+- `proyecto-cajero.js` – Simulador de cajero automático (sábado)
+
 ## 🛠️ Cómo ejecutar
 
 Cada archivo `.js` se ejecuta con Node.js. Ejemplo:
