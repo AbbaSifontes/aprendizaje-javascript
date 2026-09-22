@@ -59,6 +59,15 @@ Este repositorio contiene mi progreso diario aprendiendo JavaScript desde cero. 
 - `proyecto-calificaciones.js` – Sistema de calificaciones con clasificación
 - `proyecto-cajero.js` – Simulador de cajero automático (sábado)
 
+### 📁 Semana 2 – Funciones y Objetos
+
+#### 📁 Día 6 – Funciones I
+
+- `ejercicio1.js` – Función `saludar()` con `return`
+- `ejercicio2.js` – Función `sumar(a, b)` con parámetros
+- `ejercicio3.js` – Función `esMayorDeEdad(edad)` con condición
+- `proyecto-calculadora.js` – Calculadora con funciones y `esPar()`
+
 ## 🛠️ Cómo ejecutar
 
 Cada archivo `.js` se ejecuta con Node.js. Ejemplo:
