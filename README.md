@@ -77,6 +77,12 @@ Este repositorio contiene mi progreso diario aprendiendo JavaScript desde cero. 
 - `proyecto-calificaciones.js` – Sistema de calificaciones con clasificación
 - `proyecto-cajero.js` – Simulador de cajero automático (sábado)
 
+## 📁 Refuerzo Diario
+
+- `refuerzo1.js` – `console.log` vs `return` (función `esPar`)
+- `refuerzo2.js` – `array[i]` vs `array` (función `contarNegativos`)
+- `refuerzo3.js` – `i < length` vs `i <= length` (función `sumarArray`)
+
 ## 🛠️ Cómo ejecutar
 
 Cada archivo `.js` se ejecuta con Node.js. Ejemplo:
