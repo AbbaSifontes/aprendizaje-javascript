@@ -65,6 +65,13 @@ Este repositorio contiene mi progreso diario aprendiendo JavaScript desde cero. 
 - `ejercicio5.js` – Función `evaluarEstudiante(notas)`
 - `proyecto-estadisticas.js` – Sistema de estadísticas con 4 funciones
 
+#### 📁 Día 8 – Objetos I
+
+- `ejercicio1.js` – Crear un objeto `libro`
+- `ejercicio2.js` – Acceder a propiedades
+- `ejercicio3.js` – Modificar y añadir propiedades
+- `proyecto-objetos.js` – Sistema de productos
+
 ### 📁 Ejercicios Extra
 
 - `biblioteca.js` – Sistema de registro de libros
@@ -82,6 +89,8 @@ Este repositorio contiene mi progreso diario aprendiendo JavaScript desde cero. 
 - `refuerzo1.js` – `console.log` vs `return` (función `esPar`)
 - `refuerzo2.js` – `array[i]` vs `array` (función `contarNegativos`)
 - `refuerzo3.js` – `i < length` vs `i <= length` (función `sumarArray`)
+- `refuerzo4.js` – Objetos: crear, modificar y añadir propiedades (revista)
+- `refuerzo5.js` – Objetos + operador ternario (factura)
 
 ## 🛠️ Cómo ejecutar
 
