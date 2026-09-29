@@ -72,6 +72,18 @@ Este repositorio contiene mi progreso diario aprendiendo JavaScript desde cero. 
 - `ejercicio3.js` – Modificar y añadir propiedades
 - `proyecto-objetos.js` – Sistema de productos
 
+#### 📁 Día 9 – Objetos II
+
+- `ejercicio1.js` – Método `sumar` en objeto `calculadora`
+- `ejercicio2.js` – Método `mostrarInfo` con `this`
+- `ejercicio3.js` – Recorrer objeto con `for...in`
+- `ejercicio4.js` – Calculadora completa con 3 métodos
+- `ejercicio5.js` – Termómetro con `this` y ternario
+- `ejercicio6.js` – Recorrer objeto `usuario` con `for...in`
+- `practica.js` – Objeto `perro` con método `ladrar`
+- `proyecto-mascotas.js` – Objeto `mascota` con métodos `mostrarFicha` y `cumplirAnios`
+- `proyecto-metodos.js` – Objeto `cuenta` con método `mostrarSaldo`
+
 ### 📁 Ejercicios Extra
 
 - `biblioteca.js` – Sistema de registro de libros
@@ -91,6 +103,7 @@ Este repositorio contiene mi progreso diario aprendiendo JavaScript desde cero. 
 - `refuerzo3.js` – `i < length` vs `i <= length` (función `sumarArray`)
 - `refuerzo4.js` – Objetos: crear, modificar y añadir propiedades (revista)
 - `refuerzo5.js` – Objetos + operador ternario (factura)
+- `repaso-objetos.js` – Repaso de Objetos I (celular)
 
 ## 🛠️ Cómo ejecutar
 
