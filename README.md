@@ -84,6 +84,13 @@ Este repositorio contiene mi progreso diario aprendiendo JavaScript desde cero. 
 - `proyecto-mascotas.js` – Objeto `mascota` con métodos `mostrarFicha` y `cumplirAnios`
 - `proyecto-metodos.js` – Objeto `cuenta` con método `mostrarSaldo`
 
+#### 📁 Día 10 – Arrays de Objetos
+
+- `ejercicio1.js` – Recorrer array de objetos
+- `ejercicio2.js` – Calcular total del inventario
+- `ejercicio3.js` – Filtrar productos caros
+- `proyecto-inventario.js` – Sistema de inventario con resumen
+
 ### 📁 Ejercicios Extra
 
 - `biblioteca.js` – Sistema de registro de libros
