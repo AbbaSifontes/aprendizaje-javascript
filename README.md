@@ -91,6 +91,10 @@ Este repositorio contiene mi progreso diario aprendiendo JavaScript desde cero. 
 - `ejercicio3.js` – Filtrar productos caros
 - `proyecto-inventario.js` – Sistema de inventario con resumen
 
+#### 📁 Día 11 – Proyecto Semanal: Sistema de Inventario
+
+- `proyecto-inventario-completo.js` – Sistema con 4 métodos: mostrarInventario, calcularTotal, contarStockBajo, buscarProducto
+
 ### 📁 Ejercicios Extra
 
 - `biblioteca.js` – Sistema de registro de libros
