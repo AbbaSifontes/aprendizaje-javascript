@@ -94,6 +94,7 @@ Este repositorio contiene mi progreso diario aprendiendo JavaScript desde cero. 
 #### 📁 Día 11 – Proyecto Semanal: Sistema de Inventario
 
 - `proyecto-inventario-completo.js` – Sistema con 4 métodos: mostrarInventario, calcularTotal, contarStockBajo, buscarProducto
+- `proyecto-libre.js` – Sistema de biblioteca con `mostrarLibros`, `contarDisponibles` y `buscarPorAutor`
 
 ### 📁 Ejercicios Extra
 
