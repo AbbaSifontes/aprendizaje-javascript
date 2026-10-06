@@ -96,6 +96,15 @@ Este repositorio contiene mi progreso diario aprendiendo JavaScript desde cero. 
 - `proyecto-inventario-completo.js` – Sistema con 4 métodos: mostrarInventario, calcularTotal, contarStockBajo, buscarProducto
 - `proyecto-libre.js` – Sistema de biblioteca con `mostrarLibros`, `contarDisponibles` y `buscarPorAutor`
 
+### 📁 Semana 3 – Métodos de Arrays
+
+#### 📁 Día 12 – Métodos de Arrays I
+
+- `ejercicio1.js` – `push` y `pop` en lista de compras
+- `ejercicio2.js` – `unshift` y `shift` en fila de personas
+- `ejercicio3.js` – Combinar `push`, `unshift` y `pop`
+- `proyecto-carrito.js` – Carrito de compras con métodos de arrays
+
 ### 📁 Ejercicios Extra
 
 - `biblioteca.js` – Sistema de registro de libros
