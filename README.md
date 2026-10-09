@@ -105,6 +105,17 @@ Este repositorio contiene mi progreso diario aprendiendo JavaScript desde cero. 
 - `ejercicio3.js` – Combinar `push`, `unshift` y `pop`
 - `proyecto-carrito.js` – Carrito de compras con métodos de arrays
 
+#### 📁 Día 13 – Métodos de Arrays II
+
+- `ejercicio1.js` – `indexOf` en lista de colores
+- `ejercicio2.js` – `includes` en lista de invitados
+- `ejercicio3.js` – `find` en lista de números
+
+- `practica-find-II.js` – `find` con objetos (libros)
+- `practica-find-III.js` – `find` con estudiantes reprobados
+- `practica-find.js` – `find` con objetos (animales)
+- `proyecto-buscador.js` – Buscador de productos con `find`
+
 ### 📁 Ejercicios Extra
 
 - `biblioteca.js` – Sistema de registro de libros
